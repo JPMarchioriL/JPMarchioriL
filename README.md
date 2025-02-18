@@ -3,10 +3,8 @@
 
 📕 Técnico em Desenvolvimento de Sistemas e Estudante em Análise e Desenvolvimento de Sistemas na PUC Minas.
 
-💬 Contatos e Redes Sociais: .
-
 <p align="left">
-    💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+    💬 Contatos e Redes Sociais: ⤵️
   </p>
   
   <p align="left">
