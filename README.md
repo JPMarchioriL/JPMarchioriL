@@ -1,4 +1,4 @@
-## 💻 Olá, meu nome é {João Pedro Marchiori Lima}!
+## 💻 Olá, meu nome é João Pedro Marchiori Lima!
 
 
 📕 Técnico em Desenvolvimento de Sistemas e Estudante em Análise e Desenvolvimento de Sistemas na PUC Minas.
